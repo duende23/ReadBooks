@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">ReadBookRoom</string>
+
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="add_fragment_label">Add Fragment</string>
+
+    <string name="book_title">Title</string>
+    <string name="book_author">Author</string>
+
+    <string name="yes_read">Leído</string>
+    <string name="no_read">No leído</string>
+
+
+
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
